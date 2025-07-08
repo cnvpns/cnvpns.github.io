@@ -432,3 +432,9 @@ Kill Switch（网络保护开关）是一个非常重要但经常被忽视的功
 最后，虽然自建翻墙梯子为技术大牛提供了更高的自由度和灵活性，但对于普通用户而言，自建翻墙工具不仅耗时耗力，还需要更多花费，直接选择成熟的翻墙VPN会更加方便。
 
 此外，我们需要提醒大家，切勿使用翻墙软件浏览或传播敏感信息，并且要定期更新科学上网工具。如遇任何问题，务必第一时间联系在线客服寻求帮助，以确保获得最佳的上网体验。
+
+## 翻墙与科学上网相关的其他文章：
+
+* <a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN排行</a>：2025年在中国大陆最好用的中国VPN推荐！
+* <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
+* <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
