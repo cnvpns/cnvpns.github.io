@@ -1,6 +1,6 @@
 # <p align="center">翻墙与科学上网教程：2025年最好用的翻墙软件VPN推荐</p>
 
-<p align="center">最近更新：2025年7月25日</p>
+<p align="center">最近更新：2025年8月11日</p>
 
 由于工作需要，我经常往返于中国和美澳等国家，因此在工作和生活中也高度依赖各种翻墙工具。从2016年开始接触翻墙至今，我亲自测试过近百款翻墙软件，踩过无数的坑，也见证了无数翻墙工具的兴衰更替。在多年的不断尝试和实践中，我发现“如何翻墙”“如何科学上网”始终是每一个想要突破网络封锁、访问海外互联网的朋友最关心的问题。然而，随着网络监管越来越严格，许多曾经可用的翻墙方法现在都已失效。
 
@@ -439,3 +439,4 @@ Kill Switch（网络保护开关）是一个非常重要但经常被忽视的功
 * <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
 * <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
 * <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
+* <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的翻墙回国VPN推荐！
